@@ -9,7 +9,7 @@ Important steps to learning how to use git:
 5. Commit changes to version history 
 6. Review previous changes with git log
 
-
+This is different content that I want
 
 Table of Contents
 - exampleFile.txt
